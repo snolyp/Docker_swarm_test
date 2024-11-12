@@ -1,2 +1,0 @@
-- name: Deploy a Portainer stack
-  uses: carlrygart/portainer-stack-deploy@v1.3.0
